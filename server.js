@@ -1,7 +1,7 @@
 const path = require('path');
 const http = require('http');
 const express = require('express');
-const routes = require('./routes');
+const routes = require('./app/routes');
 
 // SERVER
 const hostname = 'localhost';
